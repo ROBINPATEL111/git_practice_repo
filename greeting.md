@@ -1,2 +1,5 @@
-Goodmorning friends making merge conflict
-very good morning , afternoon , avening , night
+
+Goodmorning
+good evening 
+good night
+
