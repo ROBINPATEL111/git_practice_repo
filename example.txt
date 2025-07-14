@@ -1,2 +1,2 @@
 Hello, this is a sample example file.
-I am adding my changes.
+These are changes, which are newly added.
