@@ -1,3 +1,5 @@
 This is a sample file for practising commands.
 
 I have added changes.
+
+Add new text.
