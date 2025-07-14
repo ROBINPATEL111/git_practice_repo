@@ -1,1 +1,2 @@
 Hello, this is a sample example file.
+These are added changes.
